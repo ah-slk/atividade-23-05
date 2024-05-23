@@ -2,3 +2,4 @@ X = 10
 Y = 15
 resultado=X+Y
 print (resultado)
+else=erro
